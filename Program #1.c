@@ -5,10 +5,8 @@ void main()
   int i;
   do
   {
-    printf("HELLO");
-    printf("YAHOO");
-    printf("YAYYYYYYY");
-    printf("What is your Name? ");
+    printf("BYE");
+    printf("What is your AGE? ");
     scanf("%s", Name);
     do
     {
