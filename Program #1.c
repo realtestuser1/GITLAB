@@ -5,8 +5,8 @@ void main()
   int i;
   do
   {
-    printf("GOOD MORNING");
-    printf("What is your GENDER? ");
+    printf("BYE");
+    printf("What is your AGE? ");
     scanf("%s", Name);
     do
     {
